@@ -1,0 +1,7 @@
+<Customers>
+<Customer><Code>BKNA00251105</Code><ERR>Trùng khách hàng</ERR></Customer>
+<Customer><Code></Code><ERR><VALIDATIONERROR>The 'Code' element has an invalid value according to its data type.</VALIDATIONERROR></ERR></Customer>
+<Customer><Code></Code><ERR><VALIDATIONERROR>The 'Code' element has an invalid value according to its data type.</VALIDATIONERROR></ERR></Customer>
+<Customer><Code></Code><ERR><VALIDATIONERROR>The 'Code' element has an invalid value according to its data type.</VALIDATIONERROR></ERR></Customer>
+<Customer><Code></Code><ERR><VALIDATIONERROR>The 'Code' element has an invalid value according to its data type.</VALIDATIONERROR></ERR></Customer>
+</Customers>
